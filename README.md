@@ -71,6 +71,6 @@ rest3
 ```
 
 ### Autores
-* Janira Navarro
 * Sion-jei Mamani
+* Janira Navarro
 * Shu-yi Wong
