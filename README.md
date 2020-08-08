@@ -1,7 +1,17 @@
 # API REST
 Trabajo de Computación Paralela
 
-### Librerias necesarias
+### Lenguaje y Librerias necesarias
+
+#### Lenguaje
+
+* Python 3.6 y posteriores
+
+```
+pip install python-3.6
+```
+
+#### Librerias
 
 * Flask
 
@@ -25,7 +35,7 @@ pip install flask-cors
 
 _Ruta para buscar UNA carrera dependiendo de su codigo unico_
 ```
-/carreras/<codigo> 
+/carrera/<codigo> 
 METODO GET
 ```
 
