@@ -57,3 +57,8 @@ rest2
 user3
 rest3
 ```
+
+### Autores
+* Janira Navarro
+* Sion-jei Mamani
+* Shu-yi Wong
