@@ -6,6 +6,7 @@ Trabajo de Computación Paralela
 #### Lenguaje
 
 * Python 3.8
+
 _Descargar python desde la pagina oficial o desde su terminal y revisar la version_
 
 ```
