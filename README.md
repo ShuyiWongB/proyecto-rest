@@ -5,10 +5,11 @@ Trabajo de Computación Paralela
 
 #### Lenguaje
 
-* Python 3.6 y posteriores
+* Python 3.8
+_Descargar python desde la pagina oficial o desde su terminal y revisar la version_
 
 ```
-pip install python-3.6
+python --version
 ```
 
 #### Librerias
